@@ -32,7 +32,7 @@ Bons conhecimentos nas seguintes ferramentas de projetos:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![ed704f4ca434379dd2b3683944cbba43](https://github.com/Fenixsinedbr/Fenixsinedbr/assets/142617009/4e269c90-75ce-49c4-8a73-4abc9405b7a0)
+![ed704f4ca434379dd2b3683944cbba43] height="50"(https://github.com/Fenixsinedbr/Fenixsinedbr/assets/142617009/4e269c90-75ce-49c4-8a73-4abc9405b7a0)
 
 
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" /> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
