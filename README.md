@@ -16,8 +16,14 @@ Here are some ideas to get you started:
 Bons conhecimentos nas seguintes ferramentas de projetos:
 
 <img height="80" src="https://image.pngaaa.com/347/4290347-middle.png"/> <img height="80" src="https://smartinwi.com/wp-content/uploads/2020/09/autodesk-inventor-logo.png"/>
+
+Cnhecimento nas seguintes linguagens back end:
+
+
+
   
-- 🌱 Estou aprendendo programação front end, de modo a aprimorar o desenvolvimento pessoal busco me especializar em alguns programas listadas abaixo:
+- Aprendendo programação front end no curso FordEnter,parcerica Ford com Senai.
+- Especializando em alguns programas listadas abaixo:
 
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" /> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" /> 
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /> 
