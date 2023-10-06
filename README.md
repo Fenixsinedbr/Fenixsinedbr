@@ -8,7 +8,7 @@
 Estamos a um pequeno passo da Inteligência Artificial e a outro da Idade das Cavernas.
 Here are some ideas to get you started:
 
-
+<h1><img height="200" src="https://i.gifer.com/3jaE.gif"/> </h1>
 - 🔭 Atualmente estou estudando engenharia mecânica/mecatrônica
   
 <img height="100" src="https://i.pinimg.com/originals/75/1b/72/751b72d5b429b4fc282008b409360111.png"/> <img height="100" src="https://img2.gratispng.com/20180421/kfe/kisspng-mechatronics-engineering-robotic-arm-technology-machinery-5adc0030e6a014.7454969415243674089447.jpg" /> <img height="100" src="https://www.pngmart.com/files/21/Internet-Of-Things-IOT-Vector-PNG-Picture.png"/>
