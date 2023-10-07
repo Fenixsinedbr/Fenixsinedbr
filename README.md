@@ -1,7 +1,7 @@
 ### Olá, pessoal! 👋
 
 
-<img height="600" src="https://1.bp.blogspot.com/-V_7x-oyjnTE/XuoxodZw7eI/AAAAAAAA21s/lYCrbkhOiKUBvgsvnB_F3XXPEHliAC9OgCLcBGAsYHQ/s1600/Terminator.gif"/> 
+<img height="400" src="https://1.bp.blogspot.com/-V_7x-oyjnTE/XuoxodZw7eI/AAAAAAAA21s/lYCrbkhOiKUBvgsvnB_F3XXPEHliAC9OgCLcBGAsYHQ/s1600/Terminator.gif"/> 
 
 ![Fenixsinedbr GitHub stats](https://github-readme-stats.vercel.app/api?username=Fenixsinedbr&show_icons=true&theme=transparent)
 
@@ -9,7 +9,6 @@
 **Fenixsinedbr/Fenixsinedbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Estamos a um pequeno passo da Inteligência Artificial e a outro da Idade das Cavernas.
-Here are some ideas to get you started:
 
 <img height="200" src="https://i.gifer.com/3jaE.gif"/> 
 
@@ -19,7 +18,9 @@ Here are some ideas to get you started:
 
 Bons conhecimentos nas seguintes ferramentas de projetos:
 
-<img height="80" src="https://image.pngaaa.com/347/4290347-middle.png"/> <img height="80" src="https://smartinwi.com/wp-content/uploads/2020/09/autodesk-inventor-logo.png"/>
+<img height="80" src="https://image.pngaaa.com/347/4290347-middle.png"/> 
+
+<img height="80" src="https://smartinwi.com/wp-content/uploads/2020/09/autodesk-inventor-logo.png"/>
 
 Cnhecimento nas seguintes linguagens back end:
 
