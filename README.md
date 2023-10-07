@@ -1,5 +1,8 @@
 ### Olá, pessoal! 👋
 
+
+<img height="600" src="https://1.bp.blogspot.com/-V_7x-oyjnTE/XuoxodZw7eI/AAAAAAAA21s/lYCrbkhOiKUBvgsvnB_F3XXPEHliAC9OgCLcBGAsYHQ/s1600/Terminator.gif"/> 
+
 ![Fenixsinedbr GitHub stats](https://github-readme-stats.vercel.app/api?username=Fenixsinedbr&show_icons=true&theme=transparent)
 
 
