@@ -4,9 +4,7 @@ Meu nome e Denis Ferreira estou me aventurando no mundo da programacao!👋</h1>
 
 <img height="400" src="https://1.bp.blogspot.com/-V_7x-oyjnTE/XuoxodZw7eI/AAAAAAAA21s/lYCrbkhOiKUBvgsvnB_F3XXPEHliAC9OgCLcBGAsYHQ/s1600/Terminator.gif"/> 
 
-![Fenixsinedbr GitHub stats](https://github-readme-stats.vercel.app/api?username=Fenixsinedbr&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fenixsinedbr&layout=donut&icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Fenixsinedbr GitHub stats](https://github-readme-stats.vercel.app/api?username=Fenixsinedbr&show_icons=true&theme=dracula)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fenixsinedbr&layout=donut&icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- 👯 Posso colaborar com atividades de pesquisas e projetos
 - 🤔 Tenho especializações em atividades relacionadas a usinagem e mecânica automotiva e química
@@ -37,7 +35,7 @@ https://shields.io/badges
 **Fenixsinedbr/Fenixsinedbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h2>Estamos a um pequeno passo da Inteligência Artificial e a outro da Idade das Cavernas.</h2>h2>
+ <img height="120" src="https://media.tenor.com/FZ5imdgkuhAAAAAd/%D0%BA%D0%BE%D0%BD%D1%91%D0%BA%D0%B3%D0%BE%D1%80%D0%B1%D1%83%D0%BD%D0%BE%D0%BA-konik-garbusek.gif"/><h2>Estamos a um pequeno passo da Inteligência Artificial e a outro da Idade das Cavernas.</h2>
 
 <img height="200" src="https://i.gifer.com/3jaE.gif"/> 
 
@@ -71,6 +69,8 @@ Bons conhecimentos nas seguintes ferramentas de projetos:
 
   <p><a href="mailto:hege@example.com"><!--hege@example.com--></a></p>
 </footer>"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" /> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+
+<img height="200" src="https://www.gifs-paradise.com/animations/animated-gifs-eagles-8.gif"/>
 
 ![snake animation](http://github.com/Fenixsinedbr/Fenixsinedbr/blob/output/github-contribution-grid-snake.sgv)
           
