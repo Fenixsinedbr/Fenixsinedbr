@@ -3,7 +3,27 @@
 
 <img height="400" src="https://1.bp.blogspot.com/-V_7x-oyjnTE/XuoxodZw7eI/AAAAAAAA21s/lYCrbkhOiKUBvgsvnB_F3XXPEHliAC9OgCLcBGAsYHQ/s1600/Terminator.gif"/> 
 
-![Fenixsinedbr GitHub stats](https://github-readme-stats.vercel.app/api?username=Fenixsinedbr&show_icons=true&theme=transparent)
+![Fenixsinedbr GitHub stats](https://github-readme-stats.vercel.app/api?username=Fenixsinedbr&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fenixsinedbr&layout=donut&icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<a href="https://www.facebook.com/sinedbr/" targuet="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/sinedbr/" targuet="_blank"><img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  target="_blank"></a>
+<a href="https://www.linkedin.com/in/denis-ferreira-de-lima-83954950" targuet="_blank"><img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
+<a href="https://www.tiktok.com/@fenixd.f.l" targuet="_blank"><img src= "https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"  target="_blank"></a>
+<a href="  " targuet="_blank"><img src= "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"  target="_blank"></a>
+<!-- https://www.tiktok.com/@fenixd.f.l
+<a href="https://about.me/ " targuet="_blank"><img src= "https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"  target="_blank"></a>
+<a href="  " targuet="_blank"><img src= " "  target="_blank"></a>
+<a href="  " targuet="_blank"><img src= " "  target="_blank"></a>-
+
+https://dev.to/envoy_/150-badges-for-github-pnk
+https://github.com/anuraghazra/github-readme-stats#themes
+https://www.youtube.com/watch?v=TsaLQAetPLU
+https://shields.io/badges
+-->
+
 
 
 **Fenixsinedbr/Fenixsinedbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
