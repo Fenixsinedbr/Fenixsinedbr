@@ -12,7 +12,7 @@
 <a href="https://www.instagram.com/sinedbr/" targuet="_blank"><img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  target="_blank"></a>
 <a href="https://www.linkedin.com/in/denis-ferreira-de-lima-83954950" targuet="_blank"><img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
 <a href="https://www.tiktok.com/@fenixd.f.l" targuet="_blank"><img src= "https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"  target="_blank"></a>
-<a href="  " targuet="_blank"><img src= "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"  target="_blank"></a>
+<a href="https://api.whatsapp.com/send?phone=05511986490403" targuet="_blank"><img src= "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"  target="_blank"></a>
 <!-- https://www.tiktok.com/@fenixd.f.l
 <a href="https://about.me/ " targuet="_blank"><img src= "https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"  target="_blank"></a>
 <a href="  " targuet="_blank"><img src= " "  target="_blank"></a>
