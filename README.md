@@ -72,6 +72,8 @@ Bons conhecimentos nas seguintes ferramentas de projetos:
 
 <img height="200" src="https://www.gifs-paradise.com/animations/animated-gifs-eagles-8.gif"/>
 
+https://github.com/Fenixsinedbr/Fenixsinedbr/blob/output/github-contribution-grid-snake.gif
+
 ![snake animation](http://github.com/Fenixsinedbr/Fenixsinedbr/blob/output/github-contribution-grid-snake.sgv)
 
 ![snake gif](https://github.com/Fenixsinedbr/Snake/blob/output/github-contribution-grid-snake.gif)
