@@ -35,7 +35,7 @@ https://shields.io/badges
 **Fenixsinedbr/Fenixsinedbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
- <img height="120" src="https://media.tenor.com/FZ5imdgkuhAAAAAd/%D0%BA%D0%BE%D0%BD%D1%91%D0%BA%D0%B3%D0%BE%D1%80%D0%B1%D1%83%D0%BD%D0%BE%D0%BA-konik-garbusek.gif"/><h2>Estamos a um pequeno passo da Inteligência Artificial e a outro da Idade das Cavernas.</h2>
+ <img align="center" alt="HTML" height="120" width="120" src="https://media.tenor.com/FZ5imdgkuhAAAAAd/%D0%BA%D0%BE%D0%BD%D1%91%D0%BA%D0%B3%D0%BE%D1%80%D0%B1%D1%83%D0%BD%D0%BE%D0%BA-konik-garbusek.gif"/><h2>Estamos a um pequeno passo da Inteligência Artificial e a outro da Idade das Cavernas.</h2>
 
 <img height="200" src="https://i.gifer.com/3jaE.gif"/> 
 
@@ -74,13 +74,33 @@ Bons conhecimentos nas seguintes ferramentas de projetos:
 
 https://github.com/Fenixsinedbr/Fenixsinedbr/blob/output/github-contribution-grid-snake.gif
 
-![snake animation](http://github.com/Fenixsinedbr/Fenixsinedbr/blob/output/github-contribution-grid-snake.sgv)
+</div>
 
-![snake gif](https://github.com/Fenixsinedbr/Snake/blob/output/github-contribution-grid-snake.gif)
-
-![snake gif](https://github.com/Fenixsinedbr/Sneke/blob/output/github-contribution-grid-snake.gif)
-
-![snake gif](https://github.com/Fenixsinedbr/Fenixsinedbr/blob/output/github-contribution-grid-snake.gif)
+<div>
+  <a href="https://github.com/ellen2121">
+ 
+  
+</div>
+ <br>
+ 
+<!--<div  align="center"> 
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  
+ 
+    
+</div>
+-->
+ 
+  ![Snake animation](https://github.com/fenixsinedbr/fenixsinedbr/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
           
 
 
