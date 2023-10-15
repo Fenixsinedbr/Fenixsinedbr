@@ -74,7 +74,11 @@ Bons conhecimentos nas seguintes ferramentas de projetos:
 
 ![snake animation](http://github.com/Fenixsinedbr/Fenixsinedbr/blob/output/github-contribution-grid-snake.sgv)
 
-![snake gif](https://github.com/Fenixsinedbr/Snake/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Fenixsinedbr/Snake/blob/output/github-contribution-grid-snake.gif)
+
+![snake gif](https://github.com/Fenixsinedbr/Sneke/blob/output/github-contribution-grid-snake.gif)
+
+![snake gif](https://github.com/Fenixsinedbr/Fenixsinedbr/blob/output/github-contribution-grid-snake.gif)
           
 
 
