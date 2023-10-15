@@ -35,7 +35,13 @@ https://shields.io/badges
 **Fenixsinedbr/Fenixsinedbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
- <img align="center" alt="HTML" height="120" width="120" src="https://media.tenor.com/FZ5imdgkuhAAAAAd/%D0%BA%D0%BE%D0%BD%D1%91%D0%BA%D0%B3%D0%BE%D1%80%D0%B1%D1%83%D0%BD%D0%BE%D0%BA-konik-garbusek.gif"/><h2>Estamos a um pequeno passo da Inteligência Artificial e a outro da Idade das Cavernas.</h2>
+ <img align="center" alt="HTML" height="120" width="120" src="https://media.tenor.com/FZ5imdgkuhAAAAAd/%D0%BA%D0%BE%D0%BD%D1%91%D0%BA%D0%B3%D0%BE%D1%80%D0%B1%D1%83%D0%BD%D0%BE%D0%BA-konik-garbusek.gif"/>
+
+<div>
+ <a href="https://github.com/fenixsinedbr" targuet="_blank"> <img align="center" alt="hiei" height="120" src="https://pa1.aminoapps.com/7042/bd61452de0e1bf5239327bef585567d592da46c8r1-350-263_00.gif" target="_blank"></a>
+
+</div>
+ <h2>Estamos a um pequeno passo da Inteligência Artificial e a outro da Idade das Cavernas.</h2>
 
 <img height="200" src="https://i.gifer.com/3jaE.gif"/> 
 
@@ -76,11 +82,6 @@ https://github.com/Fenixsinedbr/Fenixsinedbr/blob/output/github-contribution-gri
 
 </div>
 
-<div>
-  <a href="https://github.com/ellen2121">
- 
-  
-</div>
  <br>
  
 <!--<div  align="center"> 
