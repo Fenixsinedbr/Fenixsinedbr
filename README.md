@@ -98,9 +98,9 @@ https://github.com/Fenixsinedbr/Fenixsinedbr/blob/output/github-contribution-gri
     
 </div>
 -->
- 
-  ![Snake animation](https://github.com/fenixsinedbr/fenixsinedbr/blob/output/github-contribution-grid-snake.svg)
- 
+ ![snake gif](https://github.com/Fenixsinedbr/Fenixsinedbr/blob/output/github-contribution-grid-snake-dark.svg)
+ [![readme](https://github.com/Fenixsinedbr/Fenixsinedbr/blob/output/github-contribution-grid-snake.gif)](https://https://github.com/Fenixsinedbr/)
+ [![readme](https://github-readme-stats.vercel.app/api/pin/username=Fenixsinedbr&repo=Fenixsinedbr&theme-react)](https://https://github.com/Fenixsinedbr/)
 </div>
           
 
